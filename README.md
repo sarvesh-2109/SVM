@@ -2,6 +2,13 @@
 
 This project involves using Support Vector Machine (SVM) classifiers to recognize handwritten digits from the digits dataset. We employ both the RBF kernel and the linear kernel to train the models and evaluate their performance.
 
+## Output
+
+
+https://github.com/sarvesh-2109/SVM/assets/113255836/d055709c-ccf3-424b-b7b4-9ccfb0c58566
+
+
+
 ## Dataset
 
 The dataset used is the `digits` dataset from the `sklearn.datasets` module, which contains 8x8 pixel images of digits (0-9). The dataset includes:
